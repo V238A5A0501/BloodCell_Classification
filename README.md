@@ -1,6 +1,6 @@
 HematoVision – Advanced Blood Cell Classification Using Transfer Learning
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
-Developed By: Siva Meghana Srikaram and Team
+Developed By: Vyshnavi Chittemsetty and Team
 
 Project Overview
 -----------------
@@ -71,6 +71,6 @@ http://127.0.0.1:5000/
 
 Submission Details
 -------------------
-Submitted By: Siva Meghana Srikaram and Team
+Submitted By: Vyshnavi Chittemsetty and Team
 College: Rise Krishna Sai Prakasam Group of Institutions
 Team ID: LTVIP2025TMID42878
